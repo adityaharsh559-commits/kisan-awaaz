@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.wav
+last_result.txt
+.env
+.dist/
